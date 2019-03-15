@@ -1,0 +1,4 @@
+input/
+results/
+notebooks/tmp_data/
+notebooks/.ipynb_checkpoints/
