@@ -1,4 +1,4 @@
-input/
-results/
-notebooks/tmp_data/
+input/*.csv
+results/*.csv
+notebooks/tmp_data/*.parquet
 notebooks/.ipynb_checkpoints/
